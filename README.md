@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, java script and many ohter language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-juleshusson@gmail.com
+juleshusson3@gmail.com
 For the moment i'm a newbie 
 
 <!---
