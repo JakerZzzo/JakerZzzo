@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @JakerZzzo
-- 👀 I’m interested in video games programmation
+- 👀 I’m interested in web security
 - 🌱 I’m currently learning html, java script and many ohter language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-juleshusson3@gmail.com
+hussonjules40@gmail.com
 For the moment i'm a newbie 
 
 <!---
